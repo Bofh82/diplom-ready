@@ -33,4 +33,11 @@
       <value>Абонент</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="c83e3de0-1a7c-4dfa-b2f7-05e6efbb6ebf">
+    <name>ВКМ_Разовый</name>
+    <synonym>
+      <key>ru</key>
+      <value>Разовый</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
